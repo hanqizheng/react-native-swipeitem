@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipeitembutton",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An iOS style list swipe-item component.",
   "main": "src/index.js",
   "scripts": {
